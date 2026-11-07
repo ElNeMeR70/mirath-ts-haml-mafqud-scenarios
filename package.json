@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-haml-mafqud-scenarios",
+  "version": "1.0.0",
+  "description": "Contingent Heir Reserve Calculator (Unborn Haml & Missing Mafqud) (محاكي ميراث الحمل الجنين والمفقود والغرقى والهدمى)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
